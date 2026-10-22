@@ -47,7 +47,7 @@ This deep signing architecture prevents Apple's runtime integrity check failures
 
 You can download the pre-compiled, standalone macOS app bundle directly:
 
-👉 **[Download IPAResignPro_Standalone_Mac.zip](https://github.com/Skin1980/IPAResignPro/raw/main/IPAResignPro_Standalone_Mac.zip)**
+👉 **[Scarica IPAResignPro_Standalone_Mac.zip (v1.0.0)](https://github.com/Skin1980/IPAResignPro/releases/download/v1.0.0/IPAResignPro_Standalone_Mac.zip)**
 
 1. Extract the `.zip` archive.
 2. Drag `IPAResignPro.app` to your `Applications` or `Desktop` folder.
