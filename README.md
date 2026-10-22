@@ -8,7 +8,12 @@
 
 ---
 
+<p align="center">
+  <img src="screenshot.png" alt="IPAResign Pro UI" width="700">
+</p>
+
 ## 🌟 Overview
+
 
 **IPAResign Pro** is a modern macOS desktop tool designed to cleanly re-sign iOS `.ipa` packages using your personal or team Apple Developer certificates and provisioning profiles.
 
